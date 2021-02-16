@@ -11,6 +11,7 @@ public class DemoGitApplication {
 		DemoGit demoGit = new DemoGit();
 		//trying to create a conflict again
 		DemoGit demoGit2 = new DemoGit();
+		DemoGit demoGit3 = new DemoGit();
 		DemoGit demoGit1 = new DemoGit();
 		//i am trying to create a merge conflict
 		System.out.println("Hello there!");

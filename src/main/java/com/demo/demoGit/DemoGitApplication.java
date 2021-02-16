@@ -10,6 +10,7 @@ public class DemoGitApplication {
 		SpringApplication.run(DemoGitApplication.class, args);
 		DemoGit demoGit = new DemoGit();
 		DemoGit demoGit1 = new DemoGit();
+		//i am trying to create a merge conflict
+		System.out.println("Hello there!");
 	}
-
 }

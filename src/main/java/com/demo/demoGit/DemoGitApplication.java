@@ -9,6 +9,7 @@ public class DemoGitApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGitApplication.class, args);
 		DemoGit demoGit = new DemoGit();
+		DemoGit demoGit1 = new DemoGit();
 	}
 
 }
